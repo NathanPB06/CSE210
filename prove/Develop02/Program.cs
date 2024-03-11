@@ -20,6 +20,8 @@ class Program
         lst.Add("What assignments did you do today?");
         lst.Add("Did you finish any goals today?");
         lst.Add("Did you have any strong feelings today?");
+        lst.Add("Did you meet anyone new today?");
+        lst.Add("What was your favorite part of the day?");
         gen._prompts = lst;
         int pick = 10;
 
