@@ -7,7 +7,7 @@ class Program
     {   
         // !!!   I added functionality to only hide words not already hidden. It can be seen on line 41 of "classes.cs".   !!!
 
-        string text = "Wherefore art thou romeo? I love you so.";
+        string text = "Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.";
         Reference reference = new Reference("Matthew", 5, 6);
         Scripture scripture = new Scripture(reference, text);
         Random rnd = new Random();
