@@ -4,7 +4,7 @@ using System.Runtime;
 
 public class WeekManager {
     private List<Day> _days = new List<Day>();
-    public void Start() {
+    public void Run() {
         string choice = "0";
         Console.Clear();
         while (choice != "6") {
