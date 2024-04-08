@@ -1,0 +1,4 @@
+SingleAssignment:Math homework,Do one math homework,True,93,1
+SingleAssignment:History Homework,Do one history homework,False,0,1
+MultiAssignment:Physics homework,Do two physics homeworks,0,0,2,3
+SingleAssignment:English Paper,Write 500 word english paper,False,0,2
